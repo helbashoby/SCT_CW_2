@@ -2,7 +2,7 @@
 
 ## Introduction
 
-GitHub is a web-based platform used for version control and project collaboration. It allows users to create repositories to store and manage their files online. This guide provides clear, step-by-step instructions on how to create and upload a repository using the GitHub web interface.
+GitHub is a web-based platform  used for version control and project collaboration. It allows users to create repositories to store and manage their files online. This guide provides clear, step-by-step instructions on how to create and upload a repository using the GitHub web interface.
 
 ---
 
